@@ -1,0 +1,18 @@
+.tamanhoPagina{
+    height: 90vh;
+    width: 100%;
+    background-color: #F1F1F1;
+   
+}
+.loginBox{
+    font-family: 'Rakkas', cursive;
+}
+
+.imagem{
+    background-image: url('../../assets/sakura.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 558px;
+    width: 444px;
+ 
+}
